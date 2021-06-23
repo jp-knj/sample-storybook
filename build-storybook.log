@@ -1,0 +1,44 @@
+info @storybook/react v6.3.0-rc.12
+info 
+info => Cleaning outputDir: /var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4
+info => Loading presets
+vite v2.3.8 building for production...
+transforming...
+Conflicting namespaces: "node_modules/@storybook/client-api/dist/esm/index.js" re-exports "combineParameters" from both "node_modules/@storybook/client-api/dist/esm/index.js" and "node_modules/@storybook/client-api/dist/esm/parameters.js" (will be ignored)
+Conflicting namespaces: "node_modules/@storybook/components/dist/esm/index.js" re-exports "components" from both "node_modules/@storybook/components/dist/esm/index.js" and "node_modules/@storybook/components/dist/esm/typography/DocumentFormatting.js" (will be ignored)
+Conflicting namespaces: "node_modules/@storybook/addon-docs/dist/esm/blocks/index.js" re-exports "SourceState" from both "node_modules/@storybook/addon-docs/dist/esm/blocks/Canvas.js" and "node_modules/@storybook/addon-docs/dist/esm/blocks/Source.js" (will be ignored)
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+✓ 1185 modules transformed.
+rendering chunks...
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/colors.ac9401f3.svg                  8.31kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/direction.94a9917f.svg               1.25kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/comments.f15a6837.svg                1.49kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/code-brackets.9ef6443e.svg           1.42kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/stackalt.2ad81543.svg                2.49kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/flow.275142c6.svg                    1.36kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/plugin.57148314.svg                  2.12kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/repo.fb4ece47.svg                    1.60kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/iframe.html                                 4.81kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/iframe.html.56f44c84.js              10.52kb / brotli: 3.35kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/iframe.html.56f44c84.js.map          16.96kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/GlobalScrollAreaStyles.66c5b60c.js   10.03kb / brotli: 1.94kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/GlobalScrollAreaStyles.66c5b60c.js.map 24.57kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/Color.8abbabb3.js                    31.97kb / brotli: 10.21kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/Color.8abbabb3.js.map                115.79kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/WithTooltip.290f7737.js              36.96kb / brotli: 10.41kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/WithTooltip.290f7737.js.map          173.48kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/iframe.html.7738404e.css             1.60kb / brotli: 0.46kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/syntaxhighlighter.6482fb0e.js        62.81kb / brotli: 20.65kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/syntaxhighlighter.6482fb0e.js.map    237.73kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/OverlayScrollbars.518bfabc.js        56.25kb / brotli: 20.88kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/OverlayScrollbars.518bfabc.js.map    484.10kb
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/vendor.c8979ec1.js                   1139.93kb / brotli: skipped (large chunk)
+../../../../../../var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4/assets/vendor.c8979ec1.js.map               3261.48kb
+
+(!) Some chunks are larger than 500kb after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+info => Output directory: /var/folders/7x/0d1g8qkj0_dghfhnywqmv_400000gn/T/chromatic--3621-Bf17MS6XP6M4
