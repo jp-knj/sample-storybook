@@ -1,8 +1,8 @@
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
-import { Page } from './Page';
-import * as HeaderStories from './Header/index.stories';
+import { Page } from '.';
+import * as HeaderStories from '../Header/index.stories';
 
 export default {
   title: 'Parts/Page',
